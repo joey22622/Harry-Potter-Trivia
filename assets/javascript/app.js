@@ -247,13 +247,13 @@ var heckle = {
 
 
 var backgrounds = [
-    "assets/images/_0000_background.jpg",
-    "assets/images/_0001_background.jpg",
-    "assets/images/_0002_background.jpg",
-    "assets/images/_0003_background.jpg",
-    "assets/images/_0004_background.jpg",
-    "assets/images/_0005_background.jpg",
-    "assets/images/_0006_background.jpg"
+    "assets/images/0_background.jpg",
+    "assets/images/1_background.jpg",
+    "assets/images/2_background.jpg",
+    "assets/images/3_background.jpg",
+    "assets/images/4_background.jpg",
+    "assets/images/5_background.jpg",
+    "assets/images/6_background.jpg"
 ];
 var backLayer1 = []
 var backLayer2 = []
