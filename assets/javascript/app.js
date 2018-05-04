@@ -214,7 +214,7 @@ var heckle = {
     great : [
         "Excellent work Ms. Granger",
         "50 points for Gryffindor",
-        "Outstanding",
+        "O.W.L. score: Outstanding",
         "You'd be a good fit for the 'Slug Club'"
     ],
     good : [
@@ -425,6 +425,7 @@ function startGame(){
                     clock--;
                 } else{
                     loadQuestion();
+                    wrong--;
                 }
             }
         } else {
