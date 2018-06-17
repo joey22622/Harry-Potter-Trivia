@@ -24,7 +24,7 @@ button{
 .background-2{
     position: absolute;
     display: block;
-    transition: 1s;
+    transition: .5s;
     height: 100vh;
     opacity: 1;
 
@@ -62,7 +62,7 @@ button{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    transition: 1s;
+    transition: .5s;
     min-height: 10rem;
 }
 .option{
@@ -87,7 +87,11 @@ button{
 }
 
 .clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 1rem 0;
+    position: relative;
     min-height: 3rem;
     color: white;
     font-size: 2rem;
@@ -98,7 +102,7 @@ button{
     border-left: solid rgba(255,255,255, 0) 1px;
     border-right: solid rgba(255,255,255, 0) 1px;
     margin: auto;
-    transition: 1s;
+    transition: .5s;
 
 }
 
@@ -112,7 +116,7 @@ button{
     font-size: 1.2rem;
     margin: auto;
     padding: 1rem 2rem;
-    transition: 1s;
+    transition: .5s;
     cursor: pointer;
     line-height: 1.8rem;
 }
@@ -134,3 +138,4 @@ button{
     letter-spacing: .2rem;
 
 }
+
