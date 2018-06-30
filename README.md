@@ -3,6 +3,9 @@
 **DESCRIPTION:** Trivia game that asks Harry Potter related multiple choice questions
 
 
+![App Tutorial](Trivia-Game.gif)
+
+
 **GAME PLAY**
 
 * Upon starting game, player receives a full array of randomized multiple choice quesions.
@@ -26,6 +29,7 @@
 
 **FILE STRUCTURE**
 
+```
 TriviaGame
 ├── README.md
 ├── assets
@@ -44,3 +48,4 @@ TriviaGame
 │       └── app.js
 ├── index.html
 └── server.js
+```

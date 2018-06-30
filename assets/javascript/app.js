@@ -127,7 +127,7 @@ const qBank = [
         { text : "Acromantula silk" , correct : false , guess : false},
         { text : "Dragon heart string" , correct : true , guess : false},
         { text : "Phoenix feather" , correct : false , guess : false},
-        { text : "Elixer of life" , correct : false , guess : false}
+        { text : "Elixir of life" , correct : false , guess : false}
     ],
     asked : false
     }
