@@ -1,4 +1,4 @@
-# TriviaGame
+# Harry Potter Trivia
 
 **DESCRIPTION:** Trivia game that asks Harry Potter related multiple choice questions
 
@@ -30,7 +30,7 @@
 **FILE STRUCTURE**
 
 ```
-TriviaGame
+.
 ├── README.md
 ├── assets
 │   ├── css
@@ -48,4 +48,5 @@ TriviaGame
 │       └── app.js
 ├── index.html
 └── server.js
+
 ```
